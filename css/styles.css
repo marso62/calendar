@@ -1,0 +1,17 @@
+td {
+  width: calc((100% - 6%) / 5);
+  border-right: 1px solid gray;
+}
+td:first-of-type {
+  border-left: 1px solid gray;
+}
+th {
+  width: calc(6%);
+  text-align: center;
+}
+tbody th:first-of-type {
+  border-left: 1px solid gray;
+}
+tr:last-of-type {
+  border-bottom: 1px solid gray;
+}
