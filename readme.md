@@ -14,3 +14,4 @@ Application contains:
 
 - Calendar
 - Create event
+- Multiple attendees can be selected for the meeting
